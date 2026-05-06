@@ -74,8 +74,8 @@ I'm a logical thinker with strong programming fundamentals in java and growing s
 
   <tr>
     <td><b>FIRST</b></td>
-    <td>coming soon..</td>
-    <td>-</td>
+    <td>Canteen Management Systems</td>
+    <td>FSD & MongoDB</td>
     <td>-</td>
   </tr>
 
