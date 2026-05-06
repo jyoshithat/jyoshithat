@@ -76,7 +76,7 @@ I'm a logical thinker with strong programming fundamentals in java and growing s
     <td><b>FIRST</b></td>
     <td>Canteen Management Systems</td>
     <td>FSD & MongoDB</td>
-    <td>-</td>
+    <td>https://jyoshithat.github.io/Canteen-Management-System-with-AI-integration/</td>
   </tr>
 
 </table>
