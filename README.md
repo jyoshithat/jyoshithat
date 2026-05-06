@@ -85,12 +85,12 @@ I'm a logical thinker with strong programming fundamentals in java and growing s
 
 ## Problem Solving Achievements
 
-### **300+ Problems Solved Across Platforms**
+### **350+ Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 9 | 1389 |
-| **CodeChef** | 200 | 900 |
+| **LeetCode** | 30+ | 1304 |
+| **CodeChef** | 300+ | 1222 |
 | **CodeForces** | 5 | 1019 |
 | **AtCoder** | 3 | 9 |
 
