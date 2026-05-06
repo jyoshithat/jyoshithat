@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src = "https://capsule-render.vercel.app/api?type=soft&height=301&color=87CEEB&text=Jyoshitha%20T&fontColor=black&desc=Critical% Thinker20&descAlign=50&descAlignY=68"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=301&color=87CEEB&text=Jyoshitha%20T&fontColor=black&desc=Critical%20Thinker&descAlign=50&descAlignY=68"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=08080800&width=435&lines=%E2%80%9CPray.+Practice.+Play.%E2%80%9D;%E2%80%9CLearn+slow%2C+win+fast.%E2%80%9D;%E2%80%9CPray.+Practice.+Play.%E2%80%9D;%E2%80%9CStart+clumsy%2C+finish+legendary.%E2%80%9D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=08080800&color=000000&center=true&vCenter=true&width=500&lines=Pray.+Practice.+Play.;Learn+slow,+win+fast.;Start+clumsy,+finish+legendary." />
+</a>
+
 </div>
 
 <div align="center">
@@ -19,6 +22,7 @@ I'm a logical thinker with strong programming fundamentals in java and growing s
 
 </div>  
 
+---
 
 ##  Technical Skills  
 
@@ -68,26 +72,16 @@ I'm a logical thinker with strong programming fundamentals in java and growing s
     <th>Link</th>
   </tr>
 
-  
-
-  
-
   <tr>
     <td><b>FIRST</b></td>
-    <td>
-coming soon..
-    </td>
-    <td>
-     -
-    </td>
-    <td>
-      -
-    </td>
+    <td>coming soon..</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
 
- 
 </table>
 
+---
 
 ## Problem Solving Achievements
 
@@ -97,30 +91,33 @@ coming soon..
 |----------|----------------|------------|
 | **LeetCode** | 9 | 1389 |
 | **CodeChef** | 200 | 900 |
-| **CodeForces** | 5 | 10194 |
+| **CodeForces** | 5 | 1019 |
 | **AtCoder** | 3 | 9 |
 
+---
 
 ##  GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jyoshithat&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyoshithat&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jyoshithat&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyoshithat&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jyoshithat&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jyoshithat&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyoshithat&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyoshithat&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" />
 
 </div>
+
+---
 
 <div align="center">
 
@@ -138,17 +135,17 @@ coming soon..
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jyoshithat&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=jyoshithat&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
 ---
 
 ##  Currently Learning  
-- Full stack Development
-- Database Management
-- Data Structures & Algorithms
-- Problem Solving techniques
+- Full stack Development  
+- Database Management  
+- Data Structures & Algorithms  
+- Problem Solving techniques  
 
 ---
 
@@ -163,7 +160,7 @@ coming soon..
 
 <div align="center">
 
-###  Fun Fact
+### Fun Fact
 *“Write Once, Run Anywhere”*
 
 **⭐ From [jyoshithat](https://github.com/jyoshithat)**
