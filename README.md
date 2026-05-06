@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src = "https://capsule-render.vercel.app/api?type=soft&height=301&color=87CEEB&text=Jyoshitha%20T&fontColor=black&desc=Critical%Thinker20&descAlign=50&descAlignY=68"/>
+<img src = "https://capsule-render.vercel.app/api?type=soft&height=301&color=87CEEB&text=Jyoshitha%20T&fontColor=black&desc=Critical %Thinker&descAlign=50&descAlignY=68"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=08080800&width=435&lines=%E2%80%9CPray.+Practice.+Play.%E2%80%9D;%E2%80%9CLearn+slow%2C+win+fast.%E2%80%9D;%E2%80%9CPray.+Practice.+Play.%E2%80%9D;%E2%80%9CStart+clumsy%2C+finish+legendary.%E2%80%9D" alt="Typing SVG" /></a>
 </div>
